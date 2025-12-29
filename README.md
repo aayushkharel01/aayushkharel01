@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a high school graduate with deep interest in Machine Learning.
+I'm a high school graduate exploring CS.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayushhkharel) 
 
